@@ -14,11 +14,11 @@ public class WallSwitch : Switch {
     }
 
     public override void SwitchOff() {
-        //this.transform.Rotate(new Vector3(180f, 0, 0));
+        this.transform.localScale = new Vector3(0.03f, 1, 0.03f);
     }
 
     public override void SwitchOn() {
-        //this.transform.Rotate(new Vector3(180f, 0, 0));
+        this.transform.localScale = new Vector3(0.03f, 1, -0.03f);
     }
 
     void OnMouseDown() {
