@@ -131,7 +131,8 @@ public class Player : Unit {
 	cRegenHpTimer += Time.deltaTime;
 	if (cRegenHpTimer > 12f && this.Hp < this.CalculateMaxHp()) {
 	    cRegenHpTimer = 0f;
-	    this.Hp += this.Strength;
+	    this.Hp += 1;
+	    HPBar.UpdateBar(this.Hp,this.CalculateMaxHp());
 	}
         //check state
         AttackTimer += Time.deltaTime;
