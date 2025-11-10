@@ -31,6 +31,7 @@ As you kill enemies, you will gain experience. It is tracked by the yellow bar i
 - Some walls are fake. Try finding as many secrets as you can!
 - Some switches will activate timed effects. If you want to reset them, turn the switch off and on again (Twice, not once).
 - If you are really in a pinch. Go outside for a walk. Have a coffee. Do some work. You regenerate health although at quite a slow rate.
+- The game is meant to be played start to finish in one whole session. However, there is a secret passage to a level warp area to the west of the well on the first level, just after you spawn.
 
 ## Enemies
 ### Bats
