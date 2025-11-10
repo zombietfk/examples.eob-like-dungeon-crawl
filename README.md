@@ -23,7 +23,7 @@ As you kill enemies, you will gain experience. It is tracked by the yellow bar i
 - Heavier weapons do more damage but attack slower.
 - When you level up, prioritise Strength. It makes your standard attack faster and increase HP.
 - Dexterity does not need to be increased beyong a certain level.
-- Intelligence will only shine in the very late stages of the game. It is not completely required.
+- Intelligence is most useful for casting the ice spell - Try to save your mana for the late game where it will allow you to safely take care of the strongest enemies (Black Knights, Kebab)
 - Don't bother investing too many points on luck. Especially if you have the map.
 - Enemies have an attach pattern. Try to dance around them and attack after they have moved.
 - Some walls are fake. Try finding as many secrets as you can!
