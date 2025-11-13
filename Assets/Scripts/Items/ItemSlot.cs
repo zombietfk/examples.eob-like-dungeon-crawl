@@ -61,9 +61,7 @@ public class ItemSlot : MonoBehaviour, IPointerClickHandler, IPointerDownHandler
 
     [SerializeField] private float longPressThreshold = 0.5f; // seconds
 
-    public virtual void OnPointerClick(PointerEventData e) {
-        
-    }
+    public virtual void OnPointerClick(PointerEventData e) { }
 
     public void OnPointerDown(PointerEventData e) {
         longPressTriggered = false;
@@ -71,7 +69,7 @@ public class ItemSlot : MonoBehaviour, IPointerClickHandler, IPointerDownHandler
         StartCoroutine(CheckLongPress());
     }
 
-    public void OnPointerUp(PointerEventData e) {
+    public virtual void OnPointerUp(PointerEventData e) {
         if (e.button == PointerEventData.InputButton.Right && !longPressTriggered) {
             HandleRightClick();
         } else if (e.button == PointerEventData.InputButton.Left) {
