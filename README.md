@@ -10,7 +10,7 @@ Half proud, half ashamed of this project, it has all the original bugs and warts
 
 *Difficulty was lowered as the original was too damn hard for me now, and some unused UI elements were removed, but everything else has remained the same! See 1.1.0 Release notes for details
 
-You can find a link to the online build of the game [here](https://zombietfk.itch.io/dungeon-of-kebab) (v1.1.1)
+You can find a link to the online build of the game [here](https://zombietfk.itch.io/dungeon-of-kebab) (v1.1.2, now with responsive UI for - a little laggy - mobile compatiblity!)
 
 Longplay of the whole game available [here](https://youtu.be/wmFogC0KJIY?si=bdaR_rZiDIjBmRjY)! (45 minutes)
 
