@@ -1,10 +1,10 @@
 # Dungeon Of Kebab!
 
 ## Screenshots
-<img width="476" height="356" alt="image" src="https://github.com/user-attachments/assets/5dc28680-e3a1-497c-b6e1-48cc3dd774d1" />
-<img width="476" height="356" alt="image" src="https://github.com/user-attachments/assets/dcc6651b-0c59-4394-98ea-948ff3e36427" />
-<img width="476" height="356" alt="image" src="https://github.com/user-attachments/assets/8a82c7aa-bda1-40f7-9663-45a26a54e4bb" />
-<img width="476" height="356" alt="image" src="https://github.com/user-attachments/assets/66d78dad-4f58-48d9-bc79-84bfefbceafc" />
+<img width="400" height="280" alt="image" src="https://github.com/user-attachments/assets/5dc28680-e3a1-497c-b6e1-48cc3dd774d1" />
+<img width="400" height="280" alt="image" src="https://github.com/user-attachments/assets/dcc6651b-0c59-4394-98ea-948ff3e36427" />
+<img width="400" height="280" alt="image" src="https://github.com/user-attachments/assets/8a82c7aa-bda1-40f7-9663-45a26a54e4bb" />
+<img width="400" height="280" alt="image" src="https://github.com/user-attachments/assets/66d78dad-4f58-48d9-bc79-84bfefbceafc" />
 
 
 ## Info
